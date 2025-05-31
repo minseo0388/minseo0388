@@ -89,3 +89,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss,javascript,typescript,php,java,objective-c,swift,kotlin,ruby,go,perl,matlab,vb.net,c%23,c%2B%2B,c,assembly&langs_count=10)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=github_dark_dimmed&count_private=true&hide=prs,issues,contribs)<br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=github_dark_dimmed)
+
+<!-- Footer Section -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
