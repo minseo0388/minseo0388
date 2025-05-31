@@ -31,23 +31,23 @@ Here are some ideas to get you started:
 <div align="left">
   <h3>Library Projects</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmonygithub_dark_dimmed)](https://github.com/harmonyland/harmony)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmathgithub_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=dataanalyzinggithub_dark_dimmed)](https://github.com/minseo0388/dataanalyzing)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=dataanalyzing)](https://github.com/minseo0388/dataanalyzing)
 
   <h3>Study Projects</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmathgithub_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdataanalyze25github_dark_dimmed)](https://github.com/minseo0388/CNUdataanalyze25)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24github_dark_dimmed)](https://github.com/minseo0388/CNUcompthink24)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdataanalyze25)](https://github.com/minseo0388/CNUdataanalyze25)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24)](https://github.com/minseo0388/CNUcompthink24)
 
   <h3>Personal Projects</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfoodgithub_dark_dimmed)](https://github.com/minseo0388/CNUdormfood)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrcodegithub_dark_dimmed)](https://github.com/minseo0388/CNUqrcode)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrwebgithub_dark_dimmed)](https://github.com/minseo0388/CNUqrweb)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixergithub_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimizegithub_dark_dimmed)](https://github.com/minseo0388/PDFoptimize)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood)](https://github.com/minseo0388/CNUdormfood)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrcode)](https://github.com/minseo0388/CNUqrcode)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb)](https://github.com/minseo0388/CNUqrweb)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer)](https://github.com/minseo0388/Jasofixer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize)](https://github.com/minseo0388/PDFoptimize)
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
