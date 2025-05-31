@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minseo%20choi&fontSize=90&theme=radical)
-<h3 align="center">👋 Hi, I'm Minseo Choi</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minseo%20choi&fontSize=90&theme=tokyonight&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=ffffff)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=radical)
-
+<h3 align="center">👋 Hi, I'm Minseo Choi</h3>
 <h3 align="center">Languages</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
