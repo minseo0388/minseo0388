@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minseo%20choi&fontSize=90&theme=radical)
+<h3 align="center">👋 Hi, I'm Minseo Choi</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=radical)
 
