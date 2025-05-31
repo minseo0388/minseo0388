@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=github_dark_dimmed)
 
 <!-- Footer Section -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=75&descAlign=90&fontColor=auto&animation=fadeIn)
