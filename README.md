@@ -22,12 +22,35 @@ Here are some ideas to get you started:
   <p>👋 Hi, I’m a student at Chungnam National University.</p>
   <p>✍🏻 Major : Chemistry, Biochemistry, Biotechnology</p>
   <p>📚 I’m also interested in Data Science, Cheminformatics, Bioinfomatics.</p>
-  <p>🌱 I’m currently learning C#, C++, R, Python, and JavaScript.</p>
+  <p>🌱 I’m currently learning C#, C++, R, Python.</p>
   <p>📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">Mail Link</a></p>
 </div>
 
+<!-- Projects Section -->
+<h2 align="center">Projects</h2>
+<div align="left">
+  <h3>Library Projects</h3>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=dataanalyzing)](https://github.com/minseo0388/dataanalyzing)
+
+  <h3>Study Projects</h3>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdataanalyze25)](https://github.com/minseo0388/CNUdataanalyze25)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24)](https://github.com/minseo0388/CNUcompthink24)
+
+  <h3>Personal Projects</h3>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood)](https://github.com/minseo0388/CNUdormfood)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrcode)](https://github.com/minseo0388/CNUqrcode)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb)](https://github.com/minseo0388/CNUqrweb)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer)](https://github.com/minseo0388/Jasofixer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize)](https://github.com/minseo0388/PDFoptimize)
+
 <!-- Skills Section -->
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
@@ -44,7 +67,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232a" />&nbsp
 </div>
 <br>
-<h3 align="center">Enviornments</h3>
+<h2 align="center">Enviornments</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Intel-Ultra_5?style=for-the-badge&logo=intel&logoColor=white" />&nbsp
