@@ -25,6 +25,13 @@ Here are some ideas to get you started:
   <p>🌱 I’m currently learning C#, C++, R, Python.</p>
   <p>📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">Mail Link</a></p>
 </div>
+<br>
+<!-- Contact Section -->
+<p align="center">
+  <a href="mailto:minseo0388@o.cnu.ac.kr">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 <!-- Projects Section -->
 <h2 align="center">Projects</h2>
