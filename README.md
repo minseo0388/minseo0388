@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   <h3>Personal Projects</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood)](https://github.com/minseo0388/CNUdormfood)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrcode)](https://github.com/minseo0388/CNUqrcode)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb)](https://github.com/minseo0388/CNUqrweb)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer)](https://github.com/minseo0388/Jasofixer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize)](https://github.com/minseo0388/PDFoptimize)
