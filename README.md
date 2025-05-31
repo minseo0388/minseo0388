@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **minseo0388/minseo0388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--내용 부분-->
+
+<!--header section-->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=algolia&hide=html,css,scss,javascript,typescript,php,java,objective-c,swift,kotlin,ruby,go,perl,matlab,vb.net,c%23,c%2B%2B,c,assembly&langs_count=10)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=algolia&count_private=true&hide=prs,issues,contribs)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=algolia)
-
-<!-- Contact Section -->
-<h3 align="center">Contact</h3>
+<!-- Profile Section -->
+<h2 align="center">Profile</h2>
 <div align="left">
-  <a href="mailto:minseo0388@o.cnu.ac.kr">Email</a>
+  <p>👋 Hi, I’m a student at Chungnam National University.</p>
+  <p>✍🏻 Major : Chemistry, Biochemistry, Biotechnology</p>
+  <p>📚 I’m also interested in Data Science, Cheminformatics, Bioinfomatics.</p>
+  <p>🌱 I’m currently learning C#, C++, R, Python, and JavaScript.</p>
+  <p>📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">Mail Link</a></p>
 </div>
 
 <!-- Skills Section -->
@@ -33,15 +32,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp
-</div>
-<div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-</div>
-<div align="left">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
@@ -58,11 +53,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
-<div align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp
 </div>
 <br>
+
+<!-- GitHub Stats Section -->
+<h3 align="center">GitHub Stats</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=algolia&hide=html,css,scss,javascript,typescript,php,java,objective-c,swift,kotlin,ruby,go,perl,matlab,vb.net,c%23,c%2B%2B,c,assembly&langs_count=10)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=algolia&count_private=true&hide=prs,issues,contribs)<br>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=algolia)
