@@ -89,6 +89,18 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<!-- Related Sites Section -->
+<h2 align="center">Related Sites</h2>
+<p align="center">
+  <a href="https://plus.cnu.ac.kr" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Chungnam_National_University_logo.svg/500px-Chungnam_National_University_logo.svg.png" height="60" alt="충남대학교"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cns.cnu.ac.kr" target="_blank">
+    <img src="https://cns.cnu.ac.kr/_res/cns/img/main/new-main-logo.png" height="60" alt="자연과학대학"/>
+  </a>
+</p>
+
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats</h3>
 
