@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=25&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=algolia&hide=html,css,scss,javascript,typescript,php,java,objective-c,swift,kotlin,ruby,go,perl,matlab,vb.net,c%23,c%2B%2B,c,assembly&langs_count=10)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=algolia&count_private=true&hide=prs,issues,contribs)
