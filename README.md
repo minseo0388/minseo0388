@@ -17,10 +17,18 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=14&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=radical)
-<h3 align="center">👋 Hi, I'm Minseo Choi</h3>
-<h3 align="center">Languages</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=algolia&hide=html,css,scss,javascript,typescript,php,java,objective-c,swift,kotlin,ruby,go,perl,matlab,vb.net,c%23,c%2B%2B,c,assembly&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=algolia&count_private=true&hide=prs,issues,contribs)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=algolia)
+
+<!-- Contact Section -->
+<h3 align="center">Contact</h3>
+<div align="left">
+  <a href="mailto:minseo0388@o.cnu.ac.kr">Email</a>
+</div>
+
+<!-- Skills Section -->
+<h3 align="center">Skills</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
