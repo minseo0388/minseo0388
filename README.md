@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232a" />&nbsp
 </div>
 <br>
+
 <h2 align="center">Enviornments</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
