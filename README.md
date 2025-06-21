@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h2 align="center">Enviornments</h2>
+<h2 align="center">Environments</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Intel-Ultra_5?style=for-the-badge&logo=intel&logoColor=white" />&nbsp
