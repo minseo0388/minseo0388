@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 <!-- Projects Section -->
 <h2 align="center">Projects</h2>
 <div align="left">
-  <h3>Library Projects</h3>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=dataanalyzing)](https://github.com/minseo0388/dataanalyzing)
 
   <h3>Study Projects</h3>
 
@@ -56,6 +51,10 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb)](https://github.com/minseo0388/CNUqrweb)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer)](https://github.com/minseo0388/Jasofixer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize)](https://github.com/minseo0388/PDFoptimize)
+
+  <h3>Library Projects</h3>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
