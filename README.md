@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer)](https://github.com/minseo0388/Jasofixer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize)](https://github.com/minseo0388/PDFoptimize)
 
-  <h3>Library Projects</h3>
+  <h3>Collaborative Projects</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
 
