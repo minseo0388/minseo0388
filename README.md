@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&langs_count=10)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&langs_count=10) <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=github_dark_dimmed&count_private=true&hide=prs,issues,contribs)<br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=github_dark_dimmed)
 
