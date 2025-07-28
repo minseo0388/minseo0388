@@ -59,9 +59,9 @@ Here are some ideas to get you started:
   <h3>NaesungMath</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_js)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_py)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_cs)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_js)](https://github.com/minseo0388/naesungmath_js)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py)](https://github.com/minseo0388/naesungmath_py)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_cs)](https://github.com/minseo0388/naesungmath_cs)
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
