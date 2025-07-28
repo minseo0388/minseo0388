@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py)](https://github.com/minseo0388/naesungmath_py)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_cs)](https://github.com/minseo0388/naesungmath_cs)
 
+
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
 <div align="left">
@@ -97,6 +98,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp
 </div>
 <br>
+
 
 <!-- Related Sites Section -->
 <h2 align="center">Related Sites</h2>
