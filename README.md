@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <h3>Study Projects</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py)](https://github.com/minseo0388/naesungmath_py)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=graphweb)](https://github.com/minseo0388/graphweb)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24)](https://github.com/minseo0388/CNUcompthink24)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=mathchem)](https://github.com/minseo0388/mathchem)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=stoichiometry)](https://github.com/minseo0388/stoichiometry)
@@ -55,6 +55,12 @@ Here are some ideas to get you started:
   <h3>Collaborative Projects</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony)](https://github.com/harmonyland/harmony)
+
+  <h3>>NaesungMath</h3>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_js)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_py)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath)](https://github.com/minseo0388/naesungmath_cs)
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
