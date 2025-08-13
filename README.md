@@ -1,8 +1,7 @@
 <!--header section-->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
 
-<!--
-**minseo0388/minseo0388** i<!-- Profile Section -->
+<!-- Profile Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> 
   About Me
@@ -43,19 +42,7 @@
       </td>
     </tr>
   </table>
-</div>cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
 <!-- Profile Section -->
 <h2 align="center">Profile</h2>
