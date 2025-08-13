@@ -1,3 +1,6 @@
+<!--header section-->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
+
 <!--
 **minseo0388/minseo0388** i<!-- Profile Section -->
 <h2 align="center">
@@ -53,9 +56,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--header section-->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=51&descAlign=62&fontColor=auto&animation=fadeIn)
 
 <!-- Profile Section -->
 <h2 align="center">Profile</h2>
