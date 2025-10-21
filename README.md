@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo%20|%20화학%20%26%20정보학%20융합%20탐색&descAlignY=55&descAlign=60&fontColor=auto&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo&descAlignY=55&descAlign=60&fontColor=FFFFFF&animation=fadeIn)
 
 ---
 
@@ -164,4 +164,4 @@
     </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=75&descAlign=90&fontColor=auto&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=75&descAlign=90&fontColor=FFFFFF&animation=fadeIn)
