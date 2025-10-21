@@ -2,7 +2,10 @@
 
 ---
 
-## 🌟 About Me
+<p align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>&nbsp;
+    <strong>🌟 About Me</strong>
+</p>
 
 <div align="center">
     <p>
@@ -17,23 +20,23 @@
 
 <div align="left">
 <p>👋 안녕하세요! 충남대학교에서 **화학, 생화학, 생명공학**을 전공하는 **최민서(corecns)**입니다.</p>
-
 <p>
 🔬 저는 전공 지식과 IT 기술을 융합하여 **화학정보학(Cheminformatics)** 및 **생물정보학(Bioinformatics)** 분야의 문제 해결에 관심이 많습니다. 특히 실험 데이터 처리 및 분석 자동화에 집중하고 있습니다.
 </p>
-
 <p>
 🌱 현재 **Python(주력)**, C#, C++, R 언어를 학습하며 관련 프로젝트를 진행 중입니다.
 </p>
-
 <p>
-📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">Mail Link</a>
+📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
 </p>
 </div>
 
 ---
 
-## 💻 Tech Stack & Interests
+<p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/>&nbsp;
+    <strong>💻 Tech Stack & Interests</strong>
+</p>
 
 <div align="center">
     
@@ -50,20 +53,23 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 <br>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img-shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
@@ -71,12 +77,14 @@
 
 ---
 
-## ✨ Featured Projects
+<p align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>&nbsp;
+    <strong>✨ Featured Projects</strong>
+</p>
 
 <div align="left">
     <p>💡 **핵심 프로젝트**에 대한 간단한 설명을 추가하여 방문자가 쉽게 이해할 수 있도록 했습니다.</p>
 </div>
-<br>
 
 ### 📚 Study & Informatics Projects
 
@@ -121,12 +129,10 @@
 
 ---
 
-## 🖥️ Development Environment & Tools
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> 
-  Development Environment
-</h2>
+<p align="center">
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"/>&nbsp;
+    <strong>🖥️ Development Environment & Tools</strong>
+</p>
 
 <div align="center">
   
@@ -150,12 +156,10 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  GitHub Analytics
-</h2>
+<p align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>&nbsp;
+    <strong>📈 GitHub Analytics</strong>
+</p>
 
 <div align="center">
     
@@ -175,12 +179,10 @@
 
 ---
 
-## 🌐 Connect & University
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> 
-  Connect & University
-</h2>
+<p align="center">
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"/>&nbsp;
+    <strong>🌐 Connect & University</strong>
+</p>
 
 <div align="center">
     <a href="mailto:minseo0388@o.cnu.ac.kr">
