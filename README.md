@@ -1,37 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo%20|%20%ED%99%94%ED%95%99%20%26%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%BC%ED%95%99&descAlignY=55&descAlign=60&fontColor=auto&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=corecns&fontSize=90&color=gradient&customColorList=12&fontAlignY=38&desc=Choi%20Minseo%20|%20화학%20%26%20정보학%20융합%20탐색&descAlignY=55&descAlign=60&fontColor=auto&animation=fadeIn)
 
 ---
 
-## 🌟 About Me: 융합 인재를 지향합니다
+## 🌟 About Me
 
 <div align="center">
     <p>
-        <img src="https://img.shields.io/badge/🎓%20충남대학교%20학부생-blue?style=flat-square&logo=git&logoColor=white" alt="Student"/>
-        <img src="https://img.shields.io/badge/🧪%20화학%20%26%20생명공학-green?style=flat-square&logo=dna&logoColor=white" alt="Major"/>
-        <img src="https://img.shields.io/badge/💻%20데이터%20과학%20%26%20정보학-purple?style=flat-square&logo=jupyter&logoColor=white" alt="Interests"/>
-        <img src="https://img.shields.io/badge/🚀%20Python%20%7C%20C%23%20%7C%20R-orange?style=flat-square&logo=python&logoColor=white" alt="Learning"/>
+        <img src="https://img.shields.io/badge/🎓%20충남대학교%20학부생-blue?style=for-the-badge" alt="Student"/>
+        <img src="https://img.shields.io/badge/🧪%20화학%20%26%20생명공학-green?style=for-the-badge" alt="Major"/>
+        <img src="https://img.shields.io/badge/💻%20데이터%20과학%20%26%20정보학-purple?style=for-the-badge" alt="Interests"/>
+        <img src="https://img.shields.io/badge/🚀%20Python%20%7C%20C%23%20%7C%20R-orange?style=for-the-badge" alt="Learning"/>
     </p>
 </div>
 
 <br>
 
 <div align="left">
-<p>안녕하세요! 👋 <strong>충남대학교</strong>에서 화학, 생화학, 생명공학을 전공하고 있는 <strong>최민서(corecns)</strong>입니다.</p>
+<p>👋 안녕하세요! 충남대학교에서 **화학, 생화학, 생명공학**을 전공하는 **최민서(corecns)**입니다.</p>
 
 <p>
-🔬 저는 <strong>실험실 데이터를 효율적으로 처리</strong>하고 <strong>새로운 화학/생물학적 정보를 탐색</strong>하는 일에 깊은 관심을 두고 있습니다.
+🔬 저는 전공 지식과 IT 기술을 융합하여 **화학정보학(Cheminformatics)** 및 **생물정보학(Bioinformatics)** 분야의 문제 해결에 관심이 많습니다. 특히 실험 데이터 처리 및 분석 자동화에 집중하고 있습니다.
 </p>
 
 <p>
-📚 특히, **화학정보학(Cheminformatics)**과 **생물정보학(Bioinformatics)** 분야에서 데이터 과학 및 프로그래밍 스킬을 융합하는 방법을 탐구하고 있습니다.
+🌱 현재 **Python(주력)**, C#, C++, R 언어를 학습하며 관련 프로젝트를 진행 중입니다.
 </p>
 
 <p>
-🌱 현재 **Python(주력)**, C#, C++, R을 학습하며 다양한 프로젝트를 진행하고 있습니다.
-</p>
-
-<p>
-📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
+📫 How to reach me: <a href="mailto:minseo0388@o.cnu.ac.kr">Mail Link</a>
 </p>
 </div>
 
@@ -40,32 +36,37 @@
 ## 💻 Tech Stack & Interests
 
 <div align="center">
-    <h3>💡 관심 분야 (Focus)</h3>
-    <a href="https://github.com/topics/cheminformatics" target="_blank">
-        <img src="https://img.shields.io/badge/Cheminformatics-96CEB4?style=for-the-badge&logo=molecular&logoColor=white" alt="Cheminformatics"/>
-    </a>
-    <a href="https://github.com/topics/bioinformatics" target="_blank">
-        <img src="https://img.shields.io/badge/Bioinformatics-45B7D1?style=for-the-badge&logo=dna&logoColor=white" alt="Bioinformatics"/>
-    </a>
-    <a href="https://github.com/topics/data-science" target="_blank">
-        <img src="https://img.shields.io/badge/Data%20Science-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
-    </a>
-    <a href="https://github.com/topics/chemistry" target="_blank">
-        <img src="https://img.shields.io/badge/Chemistry-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Chemistry"/>
-    </a>
     
-    <br><br>
+### 💡 관심 분야 (Focus)
+<div style="margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Cheminformatics-96CEB4?style=for-the-badge&logo=molecular&logoColor=white" alt="Cheminformatics"/>&nbsp;
+    <img src="https://img.shields.io/badge/Bioinformatics-45B7D1?style=for-the-badge&logo=dna&logoColor=white" alt="Bioinformatics"/>&nbsp;
+    <img src="https://img.shields.io/badge/Data%20Science-4ECDC4?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>&nbsp;
+    <img src="https://img.shields.io/badge/Chemistry-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Chemistry"/>
+</div>
 
-    <h3>🚀 Languages & Frameworks</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+### 🚀 Languages & Frameworks
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img-shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
 </div>
 
 ---
@@ -73,6 +74,9 @@
 ## ✨ Featured Projects
 
 <div align="left">
+    <p>💡 **핵심 프로젝트**에 대한 간단한 설명을 추가하여 방문자가 쉽게 이해할 수 있도록 했습니다.</p>
+</div>
+<br>
 
 ### 📚 Study & Informatics Projects
 
@@ -80,26 +84,26 @@
 | :--- | :--- | :--- |
 | **naesungmath** | 수학/화학 관련 연산 모듈 개발 (다국어 지원) | [Repository](https://github.com/minseo0388/naesungmath) |
 | **mathchem** | 화학 관련 계산을 돕는 Python 라이브러리 | [Repository](https://github.com/minseo0388/mathchem) |
-| **stoichiometry** | 화학 양론 계산 도구 (GUI 포함) | [Repository](https://github.com/minseo0388/stoichiometry) |
-| **CNUcompthink24** | 충남대 컴퓨팅적 사고력 수업 자료 | [Repository](https://github.com/minseo0388/CNUcompthink24) |
+| **stoichiometry** | 화학 양론 계산 GUI 도구 | [Repository](https://github.com/minseo0388/stoichiometry) |
+| **CNUcompthink24** | 충남대 컴퓨팅적 사고력 수업 프로젝트 | [Repository](https://github.com/minseo0388/CNUcompthink24) |
+| **graphweb** | 웹 기반 그래프 이론 시각화 및 학습 도구 | [Repository](https://github.com/minseo0388/graphweb) |
 
 <br>
 
-### 💡 Personal & Web Service Projects
+### 💡 Personal & Collaborative Projects
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **CNUdormfood** | 충남대 기숙사 식단 정보를 제공하는 웹 서비스 | [Repository](https://github.com/minseo0388/CNUdormfood) |
+| **CNUdormfood** | 충남대 기숙사 식단 정보 제공 웹 서비스 | [Repository](https://github.com/minseo0388/CNUdormfood) |
 | **CNUqrweb** | 충남대 관련 QR 코드 생성 웹 서비스 | [Repository](https://github.com/minseo0388/CNUqrweb) |
-| **Jasofixer** | 문서에서 자소 분리 문제를 해결하는 툴 | [Repository](https://github.com/minseo0388/Jasofixer) |
-
-</div>
+| **Jasofixer** | 문서에서 자소 분리 문제를 해결하는 유틸리티 | [Repository](https://github.com/minseo0388/Jasofixer) |
+| **harmony (Collaborative)** | 협업 프로젝트 (설명 업데이트 필요) | [Repository](https://github.com/harmonyland/harmony) |
 
 <br>
 
 <div align="center">
 <details>
-<summary><h3>🔍 더 많은 프로젝트 보기 (Naesung Series & Bots)</h3></summary>
+<summary><h3>🔍 더 많은 프로젝트 보기 (시리즈 프로젝트)</h3></summary>
 <br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -117,7 +121,41 @@
 
 ---
 
+## 🖥️ Development Environment & Tools
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> 
+  Development Environment
+</h2>
+
+<div align="center">
+  
+  <h3>💻 Operating System & Hardware</h3>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Intel-Ultra_5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />&nbsp
+
+  <h3>⚡ IDEs & Tools</h3>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+
+  <h3>📋 Productivity Suite</h3>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />&nbsp
+
+</div>
+
+---
+
 ## 📈 GitHub Analytics
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
+  GitHub Analytics
+</h2>
 
 <div align="center">
     
@@ -137,19 +175,19 @@
 
 ---
 
-## 🌐 Connect with Me & University
+## 🌐 Connect & University
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> 
+  Connect & University
+</h2>
 
 <div align="center">
-    <p>
-        <a href="mailto:minseo0388@o.cnu.ac.kr">
-            <img src="https://img.shields.io/badge/📧-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </a>
-    </p>
+    <a href="mailto:minseo0388@o.cnu.ac.kr">
+        <img src="https://img.shields.io/badge/📧-minseo0388@o.cnu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
     
-    <p>
-        <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
-        충남대학교 (Chungnam National University)
-    </p>
+    <br><br>
 
     <table>
         <tr>
