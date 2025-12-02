@@ -38,50 +38,44 @@
 <div align="center">
 
 <h3>Study Projects</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=graphweb&theme=github_dark_dimmed)](https://github.com/minseo0388/graphweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUcompthink24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=mathchem&theme=github_dark_dimmed)](https://github.com/minseo0388/mathchem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=stoichiometry&theme=github_dark_dimmed)](https://github.com/minseo0388/stoichiometry)
-
-</div>
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://github.com/minseo0388/naesungmath"><strong>naesungmath</strong></a></li>
+  <li><a href="https://github.com/minseo0388/graphweb"><strong>graphweb</strong></a></li>
+  <li><a href="https://github.com/minseo0388/CNUcompthink24"><strong>CNUcompthink24</strong></a></li>
+  <li><a href="https://github.com/minseo0388/mathchem"><strong>mathchem</strong></a></li>
+  <li><a href="https://github.com/minseo0388/stoichiometry"><strong>stoichiometry</strong></a></li>
+</ul>
 
 <h3>Personal Projects</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUdormfood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUqrweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer&theme=github_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize&theme=github_dark_dimmed)](https://github.com/minseo0388/PDFoptimize)
-
-</div>
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://github.com/minseo0388/CNUdormfood"><strong>CNUdormfood</strong></a></li>
+  <li><a href="https://github.com/minseo0388/CNUqrweb"><strong>CNUqrweb</strong></a></li>
+  <li><a href="https://github.com/minseo0388/Jasofixer"><strong>Jasofixer</strong></a></li>
+  <li><a href="https://github.com/minseo0388/PDFoptimize"><strong>PDFoptimize</strong></a></li>
+</ul>
 
 <h3>Collaborative Projects</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony&theme=github_dark_dimmed)](https://github.com/harmonyland/harmony)
-
-</div>
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://github.com/harmonyland/harmony"><strong>harmony</strong></a></li>
+</ul>
 
 <details>
 <summary><h3>NaesungMath Series</h3></summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_js&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_cs&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_cs)
-
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://github.com/minseo0388/naesungmath"><strong>naesungmath</strong></a></li>
+  <li><a href="https://github.com/minseo0388/naesungmath_js"><strong>naesungmath_js</strong></a></li>
+  <li><a href="https://github.com/minseo0388/naesungmath_py"><strong>naesungmath_py</strong></a></li>
+  <li><a href="https://github.com/minseo0388/naesungmath_cs"><strong>naesungmath_cs</strong></a></li>
+</ul>
 </details>
 
 <details>
 <summary><h3>NaesungBot Series</h3></summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv1&theme=github_dark_dimmed)](https://github.com/minseo0388/botv1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv3&theme=github_dark_dimmed)](https://github.com/minseo0388/botv3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv4&theme=github_dark_dimmed)](https://github.com/minseo0388/botv4)
-
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://github.com/minseo0388/botv1"><strong>botv1</strong></a></li>
+  <li><a href="https://github.com/minseo0388/botv3"><strong>botv3</strong></a></li>
+  <li><a href="https://github.com/minseo0388/botv4"><strong>botv4</strong></a></li>
+</ul>
 </details>
 
 </div>
