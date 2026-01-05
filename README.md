@@ -88,47 +88,47 @@
 <h3>📚 Study Projects</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=graphweb&theme=github_dark_dimmed)](https://github.com/minseo0388/graphweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUcompthink24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=mathchem&theme=github_dark_dimmed)](https://github.com/minseo0388/mathchem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=stoichiometry&theme=github_dark_dimmed)](https://github.com/minseo0388/stoichiometry)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=graphweb&theme=github_dark_dimmed)](https://github.com/minseo0388/graphweb)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUcompthink24&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUcompthink24)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=mathchem&theme=github_dark_dimmed)](https://github.com/minseo0388/mathchem)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=stoichiometry&theme=github_dark_dimmed)](https://github.com/minseo0388/stoichiometry)
 
 </div>
 
 <h3>💡 Personal Projects</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUdormfood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUqrweb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer&theme=github_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize&theme=github_dark_dimmed)](https://github.com/minseo0388/PDFoptimize)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUdormfood)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUqrweb)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer&theme=github_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize&theme=github_dark_dimmed)](https://github.com/minseo0388/PDFoptimize)
 
 </div>
 
 <h3>🤝 Collaborative Projects</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harmonyland&repo=harmony&theme=github_dark_dimmed)](https://github.com/harmonyland/harmony)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=harmonyland&repo=harmony&theme=github_dark_dimmed)](https://github.com/harmonyland/harmony)
 
 </div>
 
 <details>
 <summary><h3>🧮 NaesungMath Series</h3></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_js&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_cs&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_cs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_js&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_js)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_py&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_py)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungmath_cs&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungmath_cs)
 
 </details>
 
 <details>
 <summary><h3>🤖 NaesungBot Series</h3></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv1&theme=github_dark_dimmed)](https://github.com/minseo0388/botv1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv3&theme=github_dark_dimmed)](https://github.com/minseo0388/botv3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=botv4&theme=github_dark_dimmed)](https://github.com/minseo0388/botv4)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=botv1&theme=github_dark_dimmed)](https://github.com/minseo0388/botv1)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=botv3&theme=github_dark_dimmed)](https://github.com/minseo0388/botv3)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=botv4&theme=github_dark_dimmed)](https://github.com/minseo0388/botv4)
 
 </details>
 
@@ -234,10 +234,10 @@
 <div align="center">
   
   <h3>📊 Languages & Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&langs_count=10&card_width=500" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&langs_count=10&card_width=500" alt="Top Languages" />
   
   <h3>📈 GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&theme=github_dark_dimmed&count_private=true&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=minseo0388&show_icons=true&theme=github_dark_dimmed&count_private=true&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
   
   <h3>🔥 Contribution Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minseo0388&theme=github_dark_dimmed&hide_border=true&stroke=0000&background=161B22" alt="GitHub Streak" />
