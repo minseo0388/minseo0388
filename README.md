@@ -99,10 +99,12 @@
 <h3>💡 Personal Projects</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer&theme=github_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=submail&theme=github_dark_dimmed)](https://github.com/minseo0388/submail)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=naesungcms&theme=github_dark_dimmed)](https://github.com/minseo0388/naesungcms)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUdormfood&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUdormfood)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUqrweb&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUqrweb)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=Jasofixer&theme=github_dark_dimmed)](https://github.com/minseo0388/Jasofixer)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=PDFoptimize&theme=github_dark_dimmed)](https://github.com/minseo0388/PDFoptimize)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=minseo0388&repo=CNUqrcode&theme=github_dark_dimmed)](https://github.com/minseo0388/CNUqrcode)
 
 </div>
 
