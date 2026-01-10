@@ -37,7 +37,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minseo0388&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&langs_count=6&card_width=400" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=minseo0388&show_icons=true&theme=github_dark_dimmed&count_private=true&hide=prs,issues,contribs&include_all_commits=true" />
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12&desc=Choi%20Minseo&descAlignY=50&descAlign=90&fontColor=auto&animation=fadeIn" width="100%" />
