@@ -1,3 +1,4 @@
+<img src="banner_choiminseo_github.png" width="100%" alt="Banner">
 <img src="qr_code.png" align="right" width="150" alt="QR Code">
 <h1>Choi Minseo</h1>
 
