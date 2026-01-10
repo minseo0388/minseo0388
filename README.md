@@ -1,36 +1,41 @@
-<table style="width: 100%;">
-  <tr>
-    <td valign="top" width="75%">
-      <h1>Choi Minseo</h1>
-      <br>
-      <strong>Student / Chungnam National University</strong><br>
-      <br>
-      <h3>Major</h3>
-      Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
-      <br>
-      <h3>Interests</h3>
-      Data Science · Cheminformatics · Bioinformatics
-      <br>
-      <br>
-      <h3>Contact</h3>
-      <a href="mailto:minseo0388@daum.net">
-        <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
-      </a>
-      <a href="mailto:minseo0388@o.cnu.ac.kr">
-        <img src="https://img.shields.io/badge/CNU-minseo0388@o.cnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-      </a>
-      <a href="http://www.naesung.kr">
-        <img src="https://img.shields.io/badge/Website-www.naesung.kr-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-      </a>
-      <a href="https://orcid.org/0009-0001-1744-4586">
-        <img src="https://img.shields.io/badge/ORCID-0009--0001--1744--4586-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
-      </a>
-    </td>
-    <td valign="top" width="25%" align="right">
-      <img src="qr_code.png" width="150" alt="QR Code">
-    </td>
-  </tr>
-</table>
+<img src="qr_code.png" align="right" width="150" alt="QR Code">
+<h1>Choi Minseo</h1>
+
+<p>
+  <strong>Student / Chungnam National University</strong><br>
+  <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0001-1744-4586"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0001-1744-4586
+    </a>
+  <br>
+  <br>
+  <h3>Major</h3>
+  Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
+  <br>
+  <h3>Interests</h3>
+  Data Science · Cheminformatics · Bioinformatics
+  <br>
+  <br>
+  <h3>Contact</h3>
+  <a href="mailto:minseo0388@daum.net">
+    <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="mailto:minseo0388@o.cnu.ac.kr">
+    <img src="https://img.shields.io/badge/CNU-minseo0388@o.cnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="http://www.naesung.kr">
+    <img src="https://img.shields.io/badge/Website-www.naesung.kr-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
 
 <br>
 
