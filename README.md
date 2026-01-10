@@ -1,16 +1,16 @@
 <h1>Choi Minseo</h1>
 
 <p>
-  <strong>Chungnam National University</strong><br>
+  <strong>Student / Chungnam National University</strong><br>
   <br>
-  <h3>🎓 Major</h3>
+  <h3>Major</h3>
   Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
   <br>
-  <h3>🔬 Interests</h3>
+  <h3>Interests</h3>
   Data Science · Cheminformatics · Bioinformatics
   <br>
   <br>
-  <h3>📧 Contact</h3>
+  <h3>Contact</h3>
   <a href="mailto:minseo0388@daum.net">
     <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
   </a>  
