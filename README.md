@@ -7,7 +7,7 @@
   Department of Pre-Veterinary Medicine, College of Veterinary Medicine, Gyeongsang National University<br>
   52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
   <br>
-  Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)<br>
+  <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
   34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.<br>
   <br>
