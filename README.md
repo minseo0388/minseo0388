@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="mailto:minseo0388@gnu.ac.kr">
-    <img src="https://img.shields.io/badge/CNU-minseo0388@gnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/GNU-minseo0388@gnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="http://www.naesung.kr">
     <img src="https://img.shields.io/badge/Website-www.naesung.kr-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
