@@ -3,7 +3,13 @@
 <h1>Choi Minseo</h1>
 
 <p>
-  <strong>Student / Chungnam National University</strong><br>
+  <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
+  Department of Pre-Veterinary Medicine, College of Veterinary Medicine, Gyeongsang National University<br>
+  52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
+  <br>
+  Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)<br>
+  Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
+  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
   <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -20,6 +26,7 @@
   <br>
   <br>
   <h3>Major</h3>
+  Veterinary Medicine <br>
   Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
   <br>
   <h3>Interests</h3>
@@ -30,8 +37,8 @@
   <a href="mailto:minseo0388@daum.net">
     <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="mailto:minseo0388@o.cnu.ac.kr">
-    <img src="https://img.shields.io/badge/CNU-minseo0388@o.cnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:minseo0388@gnu.ac.kr">
+    <img src="https://img.shields.io/badge/CNU-minseo0388@gnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="http://www.naesung.kr">
     <img src="https://img.shields.io/badge/Website-www.naesung.kr-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
