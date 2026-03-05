@@ -9,7 +9,8 @@
   <br>
   Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)<br>
   Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
-  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
+  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.<br>
+  <br>
   <a
     id="cy-effective-orcid-url"
     class="underline"
