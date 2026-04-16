@@ -27,7 +27,7 @@
   <br>
   <br>
   <h3>Major</h3>
-  Internal Medcine, Epitology, Biochemistrical Technology <br>
+  Internal Medicine, Epitology, Biochemistrical Technology <br>
   Veterinary Medicine <br>
   Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
   <br>
@@ -36,10 +36,14 @@
   <br>
   <br>
   <h3>Contact</h3>
-  <a href="mailto:minseo0388@daum.net"> minseo0388@daum.net</a> (Personal) <br>
-  <a href="mailto:minseo0388@daum.net"> minseo0388@o.cnu.ac.kr</a> (Chungnam Nat'l Univ.) <br>
-  <a href="mailto:minseo0388@gnu.ac.kr"> minseo0388@gnu.ac.kr</a> (Gyeongsang Nat'l Univ.) <br>
-  <a href="http://www.naesung.kr"> www.naesung.kr</a> (Webpage) <br>
+  <p>
+  <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a> (Personal) <br>
+  
+  <img src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg" height="20" style="vertical-align: middle;"> 
+  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a> (Chungnam Nat'l Univ.) <br>
+  
+  <img src="https://i.namu.wiki/i/2XczGy4g8CCCy8VyGe-sB6PTwGq6F8UHWPvveqJCZAU87PAnqZagUvHkiuW5Q9sN49vJ5bXtkwdSASz2yQEWhcYQUuwFqAFTrjZ0le1t4xOGmjRF-E7lWcvPyinOa45U8r0hbrmQygOa-SS8zz4eUQ.svg" height="20" style="vertical-align: middle;"> 
+  <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a> (Gyeongsang Nat'l Univ.) <br>
 </p>
 
 <br>
