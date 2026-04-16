@@ -27,6 +27,7 @@
   <br>
   <br>
   <h3>Major</h3>
+  Internal Medcine, Epitology, Biochemistrical Technology <br>
   Veterinary Medicine <br>
   Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
   <br>
@@ -35,15 +36,10 @@
   <br>
   <br>
   <h3>Contact</h3>
-  <a href="mailto:minseo0388@daum.net">
-    <img src="https://img.shields.io/badge/minseo0388@daum.net-EA4335?style=for-the-badge&logo=daum&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="mailto:minseo0388@gnu.ac.kr">
-    <img src="https://img.shields.io/badge/GNU-minseo0388@gnu.ac.kr-003E94?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="http://www.naesung.kr">
-    <img src="https://img.shields.io/badge/Website-www.naesung.kr-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
+  <a href="mailto:minseo0388@daum.net"> minseo0388@daum.net</a> (Personal) <br>
+  <a href="mailto:minseo0388@daum.net"> minseo0388@o.cnu.ac.kr</a> (Chungnam Nat'l Univ.) <br>
+  <a href="mailto:minseo0388@gnu.ac.kr"> minseo0388@gnu.ac.kr</a> (Gyeongsang Nat'l Univ.) <br>
+  <a href="http://www.naesung.kr"> www.naesung.kr</a> (Webpage) <br>
 </p>
 
 <br>
