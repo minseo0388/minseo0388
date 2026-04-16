@@ -4,7 +4,7 @@
 
 <p>
   <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
-  Department of Pre-Veterinary Medicine, College of Veterinary Medicine, Gyeongsang National University<br>
+  Pre-Veterinary Medicine Track, College of Veterinary Medicine, Gyeongsang National University<br>
   52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
   <br>
   <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
