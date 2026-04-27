@@ -40,7 +40,10 @@
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a> (Personal) <br>
   
   <img src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
-  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a> (Chungnam Nat'l Univ.) <br>
+  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a> (Chungnam Nat'l Univ.) (Vaild until 2026.05.22)<br>
+
+  <img src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
+  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a> (Chungnam Nat'l Univ.) (Vaild until 2026.05.01)<br>
   
   <img src="https://i.namu.wiki/i/2XczGy4g8CCCy8VyGe-sB6PTwGq6F8UHWPvveqJCZAU87PAnqZagUvHkiuW5Q9sN49vJ5bXtkwdSASz2yQEWhcYQUuwFqAFTrjZ0le1t4xOGmjRF-E7lWcvPyinOa45U8r0hbrmQygOa-SS8zz4eUQ.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a> (Gyeongsang Nat'l Univ.) <br>
