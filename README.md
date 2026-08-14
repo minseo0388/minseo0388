@@ -27,7 +27,7 @@
   <br>
   <br>
   <h3>Major</h3>
-  Internal Medicine, Epitology, Biochemistrical Technology <br>
+  Internal Medicine, Virology, Biotechnology <br>
   Veterinary Medicine <br>
   Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology<br>
   <br>
