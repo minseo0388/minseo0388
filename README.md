@@ -45,10 +45,10 @@
   <img src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a> (Chungnam Nat'l Univ.) (Vaild until 2026.05.01)<br>
 
-  <img src="https://i.namu.wiki/i/3V8zxM9Mup1XYb6hhpBfZIRawaTKmClvVf_QPKoxKVfn2KqU4XbuuWKme0sOA5GRG_dcIaSoobHd1U7YoPw7oA.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
+  <img src="https://www.unist.ac.kr/_res/unist/unist/img/content/img-ui01.png" height="22" style="vertical-align: middle; margin-right: 4px;"> 
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a> (UNIST, not vaild now. Do not contact via here anymore.) <br>
   
-  <img src="https://i.namu.wiki/i/2XczGy4g8CCCy8VyGe-sB6PTwGq6F8UHWPvveqJCZAU87PAnqZagUvHkiuW5Q9sN49vJ5bXtkwdSASz2yQEWhcYQUuwFqAFTrjZ0le1t4xOGmjRF-E7lWcvPyinOa45U8r0hbrmQygOa-SS8zz4eUQ.svg" height="22" style="vertical-align: middle; margin-right: 4px;"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5Ekx9qiISLcm0l_2fzMqm4Dp5XqLImsg_A&s" height="22" style="vertical-align: middle; margin-right: 4px;"> 
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a> (Gyeongsang Nat'l Univ.) <br>
 </p>
 
