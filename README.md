@@ -89,10 +89,10 @@ Data Science · Cheminformatics · Bioinformatics
   alt="CNU">
   <strong>Chungnam Nat'l Univ.</strong><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
-  (Vaild until 2026.05.22)
   &nbsp;·&nbsp;
   <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>
-  (Vaild until 2026.05.01)
+  <br>
+  <sub>(Vaild until 2026.05.22) · (Vaild until 2026.05.01)</sub>
 </p>
 
 <br clear="all">
@@ -106,7 +106,8 @@ Data Science · Cheminformatics · Bioinformatics
   alt="UNIST">
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
-  (UNIST, not vaild now. Do not contact via here anymore.)
+  <br>
+  <sub>(UNIST, not vaild now. Do not contact via here anymore.)</sub>
 </p>
 
 <br clear="all">
