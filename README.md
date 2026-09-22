@@ -56,8 +56,9 @@ Data Science · Cheminformatics · Bioinformatics
 <h3>Contact</h3>
 
 <p>
-  <strong>Personal</strong> ·
+  <kbd>Personal</kbd>
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
+  <sub>Personal correspondence</sub>
 </p>
 
 <p>
