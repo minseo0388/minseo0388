@@ -43,7 +43,6 @@
 </a>
 
 <br>
-<br>
 
 <h3>Major</h3>
 
@@ -103,11 +102,5 @@ Data Science · Cheminformatics · Bioinformatics
 </p>
 
 <br clear="all">
-
-<!-- Stats -->
-<div>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minseo0388&amp;layout=compact&amp;theme=github_dark_dimmed&amp;hide=html,css,scss&amp;langs_count=6&amp;card_width=400">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=minseo0388&amp;show_icons=true&amp;theme=github_dark_dimmed&amp;count_private=true&amp;hide=prs,issues,contribs&amp;include_all_commits=true">
-</div>
 
 <sub>University logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations on this profile.</sub>
