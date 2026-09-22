@@ -2,13 +2,12 @@
 
 <h1>Choi Minseo</h1>
 
-<img
+<p>
+  <img
   src="assets/gnu-logo-profile.png"
   align="left"
   height="100"
   alt="GNU">
-
-<p>
   <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
   Pre-Veterinary Medicine Track, College of Veterinary Medicine, Gyeongsang National University<br>
   52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.
@@ -16,13 +15,12 @@
 
 <br clear="all">
 
-<img
+<p>
+  <img
   src="assets/cnu-logo-profile.png"
   align="left"
   height="100"
   alt="CNU">
-
-<p>
   <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
   34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
@@ -69,26 +67,26 @@ Data Science · Cheminformatics · Bioinformatics
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
 </p>
 
-<img
+<p>
+  <img
   src="assets/gnu-logo.png"
   align="left"
   height="42"
   style="vertical-align: middle; margin-right: 9px;"
   alt="GNU">
-<p>
   <strong>Gyeongsang Nat'l Univ.</strong><br>
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
 </p>
 
 <br clear="all">
 
-<img
+<p>
+  <img
   src="assets/cnu-logo.png"
   align="left"
   height="42"
   style="vertical-align: middle; margin-right: 9px;"
   alt="CNU">
-<p>
   <strong>Chungnam Nat'l Univ.</strong><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   (Vaild until 2026.05.22)
@@ -99,13 +97,13 @@ Data Science · Cheminformatics · Bioinformatics
 
 <br clear="all">
 
-<img
+<p>
+  <img
   src="assets/unist-logo.png"
   align="left"
   height="42"
   style="vertical-align: middle; margin-right: 9px;"
   alt="UNIST">
-<p>
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   (UNIST, not vaild now. Do not contact via here anymore.)
