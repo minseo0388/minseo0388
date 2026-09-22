@@ -113,7 +113,8 @@ Data Science · Cheminformatics · Bioinformatics
 <br clear="all">
 
 <p align="center">
-  <sub>BUSAN, REPUBLIC OF KOREA · 🇰🇷</sub><br>
+  <sub>BUSAN, REPUBLIC OF KOREA</sub>
+  <img src="assets/taegeukgi.svg" width="24" alt="Taegeukgi" style="vertical-align: -2px; border: 1px solid #d0d7de;"><br>
   <sub>DONGNAE, BUSAN · 35°12'15.9"N 129°04'40.9"E</sub><br>
   <sub><i>매 순간 마주하는 흐름이 하나가 되어</i></sub><br>
   <sub><i>Ignition of fully integrated life</i></sub>
