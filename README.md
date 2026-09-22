@@ -1,4 +1,4 @@
-<img src="qr_code.png" align="right" width="150" alt="QR Code">
+<img src="assets/qr_code.png" align="right" width="150" alt="QR Code">
 
 <h1>Choi Minseo</h1>
 
@@ -56,10 +56,20 @@ Data Science · Cheminformatics · Bioinformatics
 <h3>Contact</h3>
 
 <p>
+  <img
+  src="assets/personal-contact.svg"
+  align="left"
+  height="64"
+  style="vertical-align: middle; margin-right: 9px;"
+  alt="Personal email">
   <kbd>Personal</kbd>
+  <br>
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
+  <br>
   <sub>Personal correspondence</sub>
 </p>
+
+<br clear="all">
 
 <p>
   <img
