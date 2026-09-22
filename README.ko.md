@@ -1,18 +1,18 @@
-<img src="assets/qr_code.png" align="right" width="150" alt="QR Code">
+<img src="assets/qr_code.png" align="right" width="150" alt="QR 코드">
 
 <h1>Choi Minseo</h1>
 
-<a href="./README.ko.md"><kbd>한국어</kbd></a>
+<a href="./README.md"><kbd>English</kbd></a>
 
 <p>
   <img
   src="assets/gnu-logo-profile.png"
   align="left"
   height="100"
-  alt="GNU">
-  <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
-  Pre-Veterinary Medicine Track, College of Veterinary Medicine, Gyeongsang National University<br>
-  52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.
+  alt="경상국립대학교">
+  <strong>학생 / 경상국립대학교 (2026. 03. 03. - )</strong><br>
+  경상국립대학교 수의과대학 수의예과<br>
+  52828 경상남도 진주시 진주대로 501
 </p>
 
 <br clear="all">
@@ -22,10 +22,10 @@
   src="assets/cnu-logo-profile.png"
   align="left"
   height="100"
-  alt="CNU">
-  <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
-  Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
-  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
+  alt="충남대학교">
+  <strong>학생, 연구자 / 충남대학교 (2024. 03. 04. - 2026. 02. 20.)</strong><br>
+  충남대학교 자연과학대학 화학과<br>
+  34134 대전광역시 유성구 대학로 99
 </p>
 
 <br clear="all">
@@ -40,22 +40,22 @@
   <img
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon">
+    alt="ORCID iD 아이콘">
   https://orcid.org/0009-0001-1744-4586
 </a>
 
 <br>
 
-<h3>Academic Focus</h3>
+<h3>학문 분야</h3>
 
-<kbd>Applied Sciences</kbd> Veterinary Medicine — Infectious Diseases, Virology &amp; Epidemiology<br>
-<kbd>Basic Sciences</kbd> Microbiology · Biochemistry · Chemistry
+<kbd>응용과학</kbd> 수의학 — 감염의학, 바이러스학 및 전염병학<br>
+<kbd>기초과학</kbd> 미생물학 · 생화학 · 화학
 
-<h3>Interests</h3>
+<h3>관심 분야</h3>
 
-Data Science · Cheminformatics · Bioinformatics
+데이터 과학 · 화학정보학 · 생물정보학
 
-<h3>Contact</h3>
+<h3>연락처</h3>
 
 <p>
   <img
@@ -63,12 +63,12 @@ Data Science · Cheminformatics · Bioinformatics
   align="left"
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
-  alt="Personal email">
-  <kbd>Personal</kbd>
+  alt="개인 이메일">
+  <kbd>개인</kbd>
   <br>
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
   <br>
-  <sub>Personal correspondence</sub>
+  <sub>개인 연락용</sub>
 </p>
 
 <p>
@@ -77,8 +77,8 @@ Data Science · Cheminformatics · Bioinformatics
   align="left"
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
-  alt="GNU">
-  <strong>Gyeongsang Nat'l Univ.</strong><br>
+  alt="경상국립대학교">
+  <strong>경상국립대학교</strong><br>
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
 </p>
 
@@ -90,13 +90,13 @@ Data Science · Cheminformatics · Bioinformatics
   align="left"
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
-  alt="CNU">
-  <strong>Chungnam Nat'l Univ.</strong><br>
+  alt="충남대학교">
+  <strong>충남대학교</strong><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   &nbsp;·&nbsp;
   <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>
   <br>
-  <sub>(Vaild until 2026.05.22) · (Vaild until 2026.05.01)</sub>
+  <sub>(2026.05.22까지 유효함) · (2026.05.01까지 유효함)</sub>
 </p>
 
 <p>
@@ -109,14 +109,14 @@ Data Science · Cheminformatics · Bioinformatics
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   <br>
-  <sub>(UNIST, not vaild now. Do not contact via here anymore.)</sub>
+  <sub>(현재 사용하지 않는 주소입니다. 이 주소로는 연락하지 말아 주세요.)</sub>
 </p>
 
 <br clear="all">
 
 <p>
-  <img src="assets/taegeukgi.svg" align="right" width="108" alt="Taegeukgi" style="border: 1px solid #d0d7de;">
-  <sub>DONGNAE, BUSAN · REPUBLIC OF KOREA</sub><br>
+  <img src="assets/taegeukgi.svg" align="right" width="108" alt="태극기" style="border: 1px solid #d0d7de;">
+  <sub>대한민국 부산광역시 동래구</sub><br>
   <sub>35°12'15.9"N 129°04'40.9"E</sub><br>
   <sub><i>매 순간 마주하는 흐름이 하나가 되어</i></sub><br>
   <sub><i>Ignition of fully integrated life</i></sub>
@@ -124,4 +124,4 @@ Data Science · Cheminformatics · Bioinformatics
 
 <br clear="all">
 
-<sub>University logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations on this profile.</sub>
+<sub>대학 로고와 엠블럼의 권리는 각 기관에 있으며, 이 프로필에서는 소속을 나타내는 용도로만 사용했습니다.</sub>
