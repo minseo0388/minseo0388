@@ -65,40 +65,53 @@ Data Science · Cheminformatics · Bioinformatics
 <h3>Contact</h3>
 
 <p>
-  <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a> (Personal) <br>
-
-  <img
-    src="assets/cnu-logo.png"
-    height="22"
-    style="vertical-align: middle; margin-right: 4px;"
-    alt="CNU">
-  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
-  (Chungnam Nat'l Univ.) (Vaild until 2026.05.22)<br>
-
-  <img
-    src="assets/cnu-logo.png"
-    height="22"
-    style="vertical-align: middle; margin-right: 4px;"
-    alt="CNU">
-  <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>
-  (Chungnam Nat'l Univ.) (Vaild until 2026.05.01)<br>
-
-  <img
-    src="https://www.unist.ac.kr/_res/unist/unist/img/content/img-ui01.png"
-    height="22"
-    style="vertical-align: middle; margin-right: 4px;"
-    alt="UNIST">
-  <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
-  (UNIST, not vaild now. Do not contact via here anymore.) <br>
-
-  <img
-    src="assets/gnu-logo.png"
-    height="22"
-    style="vertical-align: middle; margin-right: 4px;"
-    alt="GNU">
-  <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
-  (Gyeongsang Nat'l Univ.) <br>
+  <strong>Personal</strong> ·
+  <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
 </p>
+
+<img
+  src="assets/gnu-logo.png"
+  align="left"
+  height="42"
+  style="vertical-align: middle; margin-right: 9px;"
+  alt="GNU">
+<p>
+  <strong>Gyeongsang Nat'l Univ.</strong><br>
+  <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
+</p>
+
+<br clear="all">
+
+<img
+  src="assets/cnu-logo.png"
+  align="left"
+  height="42"
+  style="vertical-align: middle; margin-right: 9px;"
+  alt="CNU">
+<p>
+  <strong>Chungnam Nat'l Univ.</strong><br>
+  <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
+  (Vaild until 2026.05.22)
+  &nbsp;·&nbsp;
+  <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>
+  (Vaild until 2026.05.01)
+</p>
+
+<br clear="all">
+
+<img
+  src="assets/unist-logo.png"
+  align="left"
+  height="42"
+  style="vertical-align: middle; margin-right: 9px;"
+  alt="UNIST">
+<p>
+  <strong>UNIST</strong><br>
+  <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
+  (UNIST, not vaild now. Do not contact via here anymore.)
+</p>
+
+<br clear="all">
 
 <br>
 
