@@ -65,7 +65,7 @@ Data Science · Cheminformatics · Bioinformatics
   <img
   src="assets/gnu-logo.png"
   align="left"
-  height="42"
+  height="64"
   style="vertical-align: middle; margin-right: 9px;"
   alt="GNU">
   <strong>Gyeongsang Nat'l Univ.</strong><br>
