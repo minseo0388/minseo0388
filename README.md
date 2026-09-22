@@ -3,9 +3,9 @@
 <h1>Choi Minseo</h1>
 
 <img
-  src="https://cdn.newsgn.com/news/photo/202508/498268_302696_304.png"
+  src="assets/gnu-logo-profile.png"
   align="left"
-  height="78"
+  height="100"
   alt="GNU">
 
 <p>
@@ -17,9 +17,9 @@
 <br clear="all">
 
 <img
-  src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg"
+  src="assets/cnu-logo-profile.png"
   align="left"
-  height="78"
+  height="100"
   alt="CNU">
 
 <p>
@@ -68,7 +68,7 @@ Data Science · Cheminformatics · Bioinformatics
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a> (Personal) <br>
 
   <img
-    src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg"
+    src="assets/cnu-logo.png"
     height="22"
     style="vertical-align: middle; margin-right: 4px;"
     alt="CNU">
@@ -76,7 +76,7 @@ Data Science · Cheminformatics · Bioinformatics
   (Chungnam Nat'l Univ.) (Vaild until 2026.05.22)<br>
 
   <img
-    src="https://i.namu.wiki/i/DFAVDlIqio1mKMSASny1sfYnh2a7EB6pP51TyweYjZ9BWsPsBzTT1t8drNnJezsFu4wn_-VncLb3Xv7N1GJtww.svg"
+    src="assets/cnu-logo.png"
     height="22"
     style="vertical-align: middle; margin-right: 4px;"
     alt="CNU">
@@ -92,7 +92,7 @@ Data Science · Cheminformatics · Bioinformatics
   (UNIST, not vaild now. Do not contact via here anymore.) <br>
 
   <img
-    src="https://cdn.newsgn.com/news/photo/202508/498268_302696_304.png"
+    src="assets/gnu-logo.png"
     height="22"
     style="vertical-align: middle; margin-right: 4px;"
     alt="GNU">
