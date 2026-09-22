@@ -89,8 +89,6 @@ Data Science · Cheminformatics · Bioinformatics
   <sub>(Vaild until 2026.05.22) · (Vaild until 2026.05.01)</sub>
 </p>
 
-<br clear="all">
-
 <p>
   <img
   src="assets/unist-logo.png"
