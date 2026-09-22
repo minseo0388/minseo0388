@@ -44,10 +44,10 @@
 
 <br>
 
-<h3>Major</h3>
+<h3>Academic Focus</h3>
 
-Veterinary Medicine, Virology, Biotechnology <br>
-Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology
+<kbd>Applied Sciences</kbd> Veterinary Medicine — Infectious Diseases, Virology &amp; Epidemiology<br>
+<kbd>Basic Sciences</kbd> Microbiology · Biochemistry · Chemistry
 
 <h3>Interests</h3>
 
