@@ -103,4 +103,10 @@ Data Science · Cheminformatics · Bioinformatics
 
 <br clear="all">
 
+<p align="center">
+  <sub>BUSAN, REPUBLIC OF KOREA · 🇰🇷</sub><br>
+  <sub><i>매 순간 마주하는 흐름이 하나가 되어</i></sub><br>
+  <sub><i>Ignition of fully integrated life</i></sub>
+</p>
+
 <sub>University logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations on this profile.</sub>
