@@ -69,8 +69,6 @@ Data Science · Cheminformatics · Bioinformatics
   <sub>Personal correspondence</sub>
 </p>
 
-<br clear="all">
-
 <p>
   <img
   src="assets/gnu-logo.png"
@@ -116,6 +114,7 @@ Data Science · Cheminformatics · Bioinformatics
 
 <p align="center">
   <sub>BUSAN, REPUBLIC OF KOREA · 🇰🇷</sub><br>
+  <sub>DONGNAE, BUSAN · 35°12'15.9"N 129°04'40.9"E</sub><br>
   <sub><i>매 순간 마주하는 흐름이 하나가 되어</i></sub><br>
   <sub><i>Ignition of fully integrated life</i></sub>
 </p>
