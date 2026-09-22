@@ -50,15 +50,9 @@
 Veterinary Medicine, Virology, Biotechnology <br>
 Biomedical Engineering (Internal Medicine, Epitology) · Chemistry · Biochemistry · Biotechnology
 
-<br>
-<br>
-
 <h3>Interests</h3>
 
 Data Science · Cheminformatics · Bioinformatics
-
-<br>
-<br>
 
 <h3>Contact</h3>
 
@@ -84,7 +78,7 @@ Data Science · Cheminformatics · Bioinformatics
   <img
   src="assets/cnu-logo.png"
   align="left"
-  height="42"
+  height="64"
   style="vertical-align: middle; margin-right: 9px;"
   alt="CNU">
   <strong>Chungnam Nat'l Univ.</strong><br>
@@ -101,7 +95,7 @@ Data Science · Cheminformatics · Bioinformatics
   <img
   src="assets/unist-logo.png"
   align="left"
-  height="42"
+  height="64"
   style="vertical-align: middle; margin-right: 9px;"
   alt="UNIST">
   <strong>UNIST</strong><br>
@@ -112,10 +106,10 @@ Data Science · Cheminformatics · Bioinformatics
 
 <br clear="all">
 
-<br>
-
 <!-- Stats -->
 <div>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minseo0388&amp;layout=compact&amp;theme=github_dark_dimmed&amp;hide=html,css,scss&amp;langs_count=6&amp;card_width=400">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=minseo0388&amp;show_icons=true&amp;theme=github_dark_dimmed&amp;count_private=true&amp;hide=prs,issues,contribs&amp;include_all_commits=true">
 </div>
+
+<sub>University logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations on this profile.</sub>
