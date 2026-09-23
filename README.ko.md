@@ -6,7 +6,7 @@
 
 <p>
   <img
-  src="assets/gnu-logo-profile.png"
+  src="assets/gnu-logo.svg"
   align="left"
   height="100"
   alt="경상국립대학교">
@@ -19,7 +19,7 @@
 
 <p>
   <img
-  src="assets/cnu-logo-profile.png"
+  src="assets/cnu-logo.svg"
   align="left"
   height="100"
   alt="충남대학교">
@@ -73,7 +73,7 @@
 
 <p>
   <img
-  src="assets/gnu-logo.png"
+  src="assets/gnu-logo.svg"
   align="left"
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
@@ -86,7 +86,7 @@
 
 <p>
   <img
-  src="assets/cnu-logo.png"
+  src="assets/cnu-logo.svg"
   align="left"
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
