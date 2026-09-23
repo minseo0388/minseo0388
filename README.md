@@ -13,7 +13,7 @@
     alt="GNU">
   </a>
   <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
-  Pre-Veterinary Medicine Track, College of Veterinary Medicine, Gyeongsang National University<br>
+  Veterinary Premedical Course, College of Veterinary Medicine, Gyeongsang National University<br>
   52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
   <a href="https://vet.gnu.ac.kr/"><kbd>College of Veterinary Medicine</kbd></a>
 </p>
