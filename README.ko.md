@@ -104,7 +104,7 @@
     style="vertical-align: middle; margin-right: 9px;"
     alt="충남대학교">
   </a>
-  <strong>충남대학교</strong><br>
+  <strong>충남대학교</strong> <kbd>Expired</kbd><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   &nbsp;·&nbsp;
   <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>

@@ -104,7 +104,7 @@ Data Science · Cheminformatics · Bioinformatics
     style="vertical-align: middle; margin-right: 9px;"
     alt="CNU">
   </a>
-  <strong>Chungnam Nat'l Univ.</strong><br>
+  <strong>Chungnam Nat'l Univ.</strong> <kbd>Expired</kbd><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   &nbsp;·&nbsp;
   <a href="mailto:minseo0388@g.cnu.ac.kr">minseo0388@g.cnu.ac.kr</a>
