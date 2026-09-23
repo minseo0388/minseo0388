@@ -15,6 +15,7 @@
   <strong>학생 / 경상국립대학교 (2026. 03. 03. - )</strong><br>
   경상국립대학교 수의과대학 수의예과<br>
   52828 경상남도 진주시 진주대로 501<br>
+  <a href="https://gnu.ac.kr/"><kbd>경상국립대학교</kbd></a>
   <a href="https://vet.gnu.ac.kr/"><kbd>수의과대학</kbd></a>
 </p>
 
@@ -31,6 +32,7 @@
   <strong>학생, 연구자 / 충남대학교 (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   충남대학교 자연과학대학 화학과<br>
   34134 대전광역시 유성구 대학로 99<br>
+  <a href="https://plus.cnu.ac.kr/"><kbd>충남대학교</kbd></a>
   <a href="https://cns.cnu.ac.kr/"><kbd>자연과학대학</kbd></a>
   <a href="https://chem.cnu.ac.kr/"><kbd>화학과</kbd></a>
 </p>
