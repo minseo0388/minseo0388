@@ -5,27 +5,34 @@
 <a href="./README.ko.md"><kbd>한국어</kbd></a>
 
 <p>
-  <img
-  src="assets/gnu-logo.svg"
-  align="left"
-  height="100"
-  alt="GNU">
+  <a href="https://gnu.ac.kr/">
+    <img
+    src="assets/gnu-logo.svg"
+    align="left"
+    height="100"
+    alt="GNU">
+  </a>
   <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
   Pre-Veterinary Medicine Track, College of Veterinary Medicine, Gyeongsang National University<br>
-  52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.
+  52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
+  <a href="https://vet.gnu.ac.kr/"><kbd>College of Veterinary Medicine</kbd></a>
 </p>
 
 <br clear="all">
 
 <p>
-  <img
-  src="assets/cnu-logo.svg"
-  align="left"
-  height="100"
-  alt="CNU">
+  <a href="https://plus.cnu.ac.kr/">
+    <img
+    src="assets/cnu-logo.svg"
+    align="left"
+    height="100"
+    alt="CNU">
+  </a>
   <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
-  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
+  34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.<br>
+  <a href="https://cns.cnu.ac.kr/"><kbd>College of Natural Sciences</kbd></a>
+  <a href="https://chem.cnu.ac.kr/"><kbd>Department of Chemistry</kbd></a>
 </p>
 
 <br clear="all">
@@ -72,12 +79,14 @@ Data Science · Cheminformatics · Bioinformatics
 </p>
 
 <p>
-  <img
-  src="assets/gnu-logo.svg"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="GNU">
+  <a href="https://gnu.ac.kr/">
+    <img
+    src="assets/gnu-logo.svg"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="GNU">
+  </a>
   <strong>Gyeongsang Nat'l Univ.</strong><br>
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
 </p>
@@ -85,12 +94,14 @@ Data Science · Cheminformatics · Bioinformatics
 <br clear="all">
 
 <p>
-  <img
-  src="assets/cnu-logo.svg"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="CNU">
+  <a href="https://plus.cnu.ac.kr/">
+    <img
+    src="assets/cnu-logo.svg"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="CNU">
+  </a>
   <strong>Chungnam Nat'l Univ.</strong><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   &nbsp;·&nbsp;
@@ -100,12 +111,14 @@ Data Science · Cheminformatics · Bioinformatics
 </p>
 
 <p>
-  <img
-  src="assets/unist-logo.png"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="UNIST">
+  <a href="https://www.unist.ac.kr/">
+    <img
+    src="assets/unist-logo.png"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="UNIST">
+  </a>
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   <br>

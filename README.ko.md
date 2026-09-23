@@ -5,27 +5,34 @@
 <a href="./README.md"><kbd>English</kbd></a>
 
 <p>
-  <img
-  src="assets/gnu-logo.svg"
-  align="left"
-  height="100"
-  alt="경상국립대학교">
+  <a href="https://gnu.ac.kr/">
+    <img
+    src="assets/gnu-logo.svg"
+    align="left"
+    height="100"
+    alt="경상국립대학교">
+  </a>
   <strong>학생 / 경상국립대학교 (2026. 03. 03. - )</strong><br>
   경상국립대학교 수의과대학 수의예과<br>
-  52828 경상남도 진주시 진주대로 501
+  52828 경상남도 진주시 진주대로 501<br>
+  <a href="https://vet.gnu.ac.kr/"><kbd>수의과대학</kbd></a>
 </p>
 
 <br clear="all">
 
 <p>
-  <img
-  src="assets/cnu-logo.svg"
-  align="left"
-  height="100"
-  alt="충남대학교">
+  <a href="https://plus.cnu.ac.kr/">
+    <img
+    src="assets/cnu-logo.svg"
+    align="left"
+    height="100"
+    alt="충남대학교">
+  </a>
   <strong>학생, 연구자 / 충남대학교 (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   충남대학교 자연과학대학 화학과<br>
-  34134 대전광역시 유성구 대학로 99
+  34134 대전광역시 유성구 대학로 99<br>
+  <a href="https://cns.cnu.ac.kr/"><kbd>자연과학대학</kbd></a>
+  <a href="https://chem.cnu.ac.kr/"><kbd>화학과</kbd></a>
 </p>
 
 <br clear="all">
@@ -72,12 +79,14 @@
 </p>
 
 <p>
-  <img
-  src="assets/gnu-logo.svg"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="경상국립대학교">
+  <a href="https://gnu.ac.kr/">
+    <img
+    src="assets/gnu-logo.svg"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="경상국립대학교">
+  </a>
   <strong>경상국립대학교</strong><br>
   <a href="mailto:minseo0388@gnu.ac.kr">minseo0388@gnu.ac.kr</a>
 </p>
@@ -85,12 +94,14 @@
 <br clear="all">
 
 <p>
-  <img
-  src="assets/cnu-logo.svg"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="충남대학교">
+  <a href="https://plus.cnu.ac.kr/">
+    <img
+    src="assets/cnu-logo.svg"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="충남대학교">
+  </a>
   <strong>충남대학교</strong><br>
   <a href="mailto:minseo0388@o.cnu.ac.kr">minseo0388@o.cnu.ac.kr</a>
   &nbsp;·&nbsp;
@@ -100,12 +111,14 @@
 </p>
 
 <p>
-  <img
-  src="assets/unist-logo.png"
-  align="left"
-  height="64"
-  style="vertical-align: middle; margin-right: 9px;"
-  alt="UNIST">
+  <a href="https://www.unist.ac.kr/">
+    <img
+    src="assets/unist-logo.png"
+    align="left"
+    height="64"
+    style="vertical-align: middle; margin-right: 9px;"
+    alt="UNIST">
+  </a>
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   <br>
