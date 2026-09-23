@@ -73,7 +73,7 @@ Data Science · Cheminformatics · Bioinformatics
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
   alt="Personal email">
-  <kbd>Personal</kbd>
+  <strong>Personal</strong>
   <br>
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
   <br>

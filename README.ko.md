@@ -73,7 +73,7 @@
   height="64"
   style="vertical-align: middle; margin-right: 9px;"
   alt="개인 이메일">
-  <kbd>개인</kbd>
+  <strong>개인</strong>
   <br>
   <a href="mailto:minseo0388@daum.net">minseo0388@daum.net</a>
   <br>
