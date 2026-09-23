@@ -124,7 +124,7 @@ Data Science · Cheminformatics · Bioinformatics
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   <br>
-  <sub>(UNIST, not vaild now. Do not contact via here anymore.)</sub>
+  <sub>(Created upon registration; still active after withdrawal on 2026. 02. 28., with no known deprovisioning date.)</sub>
 </p>
 
 <br clear="all">

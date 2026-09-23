@@ -124,7 +124,7 @@
   <strong>UNIST</strong><br>
   <a href="mailto:minseo0388@unist.ac.kr">minseo0388@unist.ac.kr</a>
   <br>
-  <sub>(현재 사용하지 않는 주소입니다. 이 주소로는 연락하지 말아 주세요.)</sub>
+  <sub>(등록 후 생성된 계정으로, 2026. 02. 28. 자퇴 후에도 현재 사용 가능하며 말소 시점은 미정입니다.)</sub>
 </p>
 
 <br clear="all">
