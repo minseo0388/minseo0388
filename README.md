@@ -15,8 +15,8 @@
   <strong>Student / Gyeongsang National University (2026. 03. 03. - )</strong><br>
   Veterinary Premedical Course, College of Veterinary Medicine, Gyeongsang National University<br>
   52828 501, Jinju-daero, Jinju-si, Gyeongsangnam-do, South Korea.<br>
-  <a href="https://gnu.ac.kr/"><kbd>Gyeongsang National University</kbd></a>
-  <a href="https://vet.gnu.ac.kr/"><kbd>College of Veterinary Medicine</kbd></a>
+  <a href="https://gnu.ac.kr/"><kbd>Gyeongsang National University ↗</kbd></a>
+  <a href="https://vet.gnu.ac.kr/"><kbd>College of Veterinary Medicine ↗</kbd></a>
 </p>
 
 <br clear="all">
@@ -32,9 +32,9 @@
   <strong>Student, Researcher / Chungnam National University (2024. 03. 04. - 2026. 02. 20.)</strong><br>
   Department of Chemistry, College of Natural Sciences, Chungnam National University<br>
   34134 99, Daehak-ro, Yuseong-gu, Daejeon, South Korea.<br>
-  <a href="https://plus.cnu.ac.kr/"><kbd>Chungnam National University</kbd></a>
-  <a href="https://cns.cnu.ac.kr/"><kbd>College of Natural Sciences</kbd></a>
-  <a href="https://chem.cnu.ac.kr/"><kbd>Department of Chemistry</kbd></a>
+  <a href="https://plus.cnu.ac.kr/"><kbd>Chungnam National University ↗</kbd></a>
+  <a href="https://cns.cnu.ac.kr/"><kbd>College of Natural Sciences ↗</kbd></a>
+  <a href="https://chem.cnu.ac.kr/"><kbd>Department of Chemistry ↗</kbd></a>
 </p>
 
 <br clear="all">
