@@ -130,6 +130,7 @@
 <br clear="all">
 
 <p>
+  <img src="assets/busan-city-logo.svg" align="left" height="24" style="margin-right: 9px;" alt="부산광역시">
   <img src="assets/taegeukgi.svg" align="right" width="108" alt="태극기" style="border: 1px solid #d0d7de;">
   <sub>대한민국 부산광역시 동래구</sub><br>
   <sub>35°12'15.9"N 129°04'40.9"E</sub><br>
@@ -139,4 +140,4 @@
 
 <br clear="all">
 
-<sub>대학 로고와 엠블럼의 권리는 각 기관에 있으며, 이 프로필에서는 소속을 나타내는 용도로만 사용했습니다.</sub>
+<sub>대학·지방자치단체 로고와 엠블럼의 권리는 각 기관에 있으며, 이 프로필에서는 소속과 지역을 나타내는 용도로만 사용했습니다.</sub>

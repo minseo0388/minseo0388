@@ -130,6 +130,7 @@ Data Science · Cheminformatics · Bioinformatics
 <br clear="all">
 
 <p>
+  <img src="assets/busan-city-logo.svg" align="left" height="24" style="margin-right: 9px;" alt="Busan Metropolitan City">
   <img src="assets/taegeukgi.svg" align="right" width="108" alt="Taegeukgi" style="border: 1px solid #d0d7de;">
   <sub>DONGNAE, BUSAN · REPUBLIC OF KOREA</sub><br>
   <sub>35°12'15.9"N 129°04'40.9"E</sub><br>
@@ -139,4 +140,4 @@ Data Science · Cheminformatics · Bioinformatics
 
 <br clear="all">
 
-<sub>University logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations on this profile.</sub>
+<sub>University and municipal logos and emblems are the property of their respective institutions and are used solely to identify the associated affiliations and location on this profile.</sub>
