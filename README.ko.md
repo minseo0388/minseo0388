@@ -130,7 +130,7 @@
 <br clear="all">
 
 <p>
-  <img src="assets/busan-city-logo.svg" align="left" height="24" style="margin-right: 9px;" alt="부산광역시">
+  <img src="assets/busan-flag-1995-2023.svg" align="right" width="108" alt="부산시기 (1995–2023)" style="border: 1px solid #d0d7de; margin-left: 8px;">
   <img src="assets/taegeukgi.svg" align="right" width="108" alt="태극기" style="border: 1px solid #d0d7de;">
   <sub>대한민국 부산광역시 동래구</sub><br>
   <sub>35°12'15.9"N 129°04'40.9"E</sub><br>
