@@ -13,29 +13,17 @@
 
 <br clear="all">
 
-## 2024
+### 2024
 
-<dl>
-  <dt><kbd>Chemistry</kbd></dt>
-  <dd>General Chemistry I · General Chemistry II</dd>
-  <dt><kbd>Mathematics</kbd></dt>
-  <dd>Algebra I · Algebra II</dd>
-  <dt><kbd>Physics</kbd></dt>
-  <dd>College Physics I · College Physics II</dd>
-</dl>
+> <kbd>Chemistry</kbd> General Chemistry I · General Chemistry II  
+> <kbd>Mathematics</kbd> Algebra I · Algebra II  
+> <kbd>Physics</kbd> College Physics I · College Physics II
 
----
+### 2025
 
-## 2025
-
-<dl>
-  <dt><kbd>Biology</kbd></dt>
-  <dd>General Biology I · General Biology II · Cell Biology</dd>
-  <dt><kbd>Chemistry</kbd></dt>
-  <dd>Organic Chemistry I · Mathematical &amp; Computational Chemistry</dd>
-  <dt><kbd>Biochemistry &amp; Genetics</kbd></dt>
-  <dd>Biochemistry I · Fundamentals of Genetic Biochemistry (Genetics)</dd>
-</dl>
+> <kbd>Biology</kbd> General Biology I · General Biology II · Cell Biology  
+> <kbd>Chemistry</kbd> Organic Chemistry I · Mathematical &amp; Computational Chemistry  
+> <kbd>Biochemistry &amp; Genetics</kbd> Biochemistry I · Fundamentals of Genetic Biochemistry (Genetics)
 
 ---
 
@@ -49,13 +37,8 @@
 
 <br clear="all">
 
-## 2026
+### 2026
 
-<dl>
-  <dt><kbd>Natural Sciences</kbd></dt>
-  <dd>Chemistry I · Biology I</dd>
-  <dt><kbd>Laboratory</kbd></dt>
-  <dd>Chemistry Experiment I · Biology Experiment I</dd>
-  <dt><kbd>Veterinary Medicine</kbd></dt>
-  <dd>Introduction of Veterinary Medicine I</dd>
-</dl>
+> <kbd>Natural Sciences</kbd> Chemistry I · Biology I  
+> <kbd>Laboratory</kbd> Chemistry Experiment I · Biology Experiment I  
+> <kbd>Veterinary Medicine</kbd> Introduction of Veterinary Medicine I
