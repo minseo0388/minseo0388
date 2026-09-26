@@ -3,6 +3,7 @@
 <h1>Choi Minseo</h1>
 
 <a href="./README.ko.md"><kbd>한국어</kbd></a>
+<a href="./coursework.md"><kbd>Coursework</kbd></a>
 
 <p>
   <a href="https://gnu.ac.kr/">
