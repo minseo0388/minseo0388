@@ -4,6 +4,7 @@
 
 <a href="./README.ko.md"><kbd>한국어</kbd></a>
 <a href="./coursework.md"><kbd>Coursework</kbd></a>
+<a href="./code.md"><kbd>Code</kbd></a>
 
 <p>
   <a href="https://gnu.ac.kr/">
