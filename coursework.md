@@ -2,8 +2,7 @@
 
 <sub><sup>n</sup> credits</sub>
 
-<a href="./README.md"><kbd>Profile</kbd></a>
-<a href="./coursework.ko.md"><kbd>한국어</kbd></a>
+### [Profile](./README.md) · [한국어](./coursework.ko.md)
 
 <p>
   <a href="https://plus.cnu.ac.kr/">
