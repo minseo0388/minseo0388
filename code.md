@@ -1,8 +1,9 @@
 # Code Index
 
-<sub>Original public projects, organized by purpose. Forks and mirrors are excluded.</sub>
+<a href="./README.md"><kbd>Profile</kbd></a>
+<a href="./code.ko.md"><kbd>한국어</kbd></a>
 
-### [Profile](./README.md) · [한국어](./code.ko.md)
+<sub>Original public projects, organized by purpose. Forks and mirrors are excluded.</sub>
 
 ## Scientific Computing & Academic Work
 

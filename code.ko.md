@@ -1,8 +1,9 @@
 # 코드 목록
 
-<sub>직접 만든 공개 저장소를 용도별로 정리했습니다. 포크와 미러 저장소는 제외합니다.</sub>
+<a href="./README.ko.md"><kbd>프로필</kbd></a>
+<a href="./code.md"><kbd>English</kbd></a>
 
-### [프로필](./README.ko.md) · [English](./code.md)
+<sub>직접 만든 공개 저장소를 용도별로 정리했습니다. 포크와 미러 저장소는 제외합니다.</sub>
 
 ## 과학 계산 및 학업 프로젝트
 

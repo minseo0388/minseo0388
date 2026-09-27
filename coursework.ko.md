@@ -1,8 +1,9 @@
 # 전공 이수체계도
 
-<sub><sup>n</sup> 학점</sub>
+<a href="./README.ko.md"><kbd>프로필</kbd></a>
+<a href="./coursework.md"><kbd>English</kbd></a>
 
-### [프로필](./README.ko.md) · [English](./coursework.md)
+<sub><sup>n</sup> 학점</sub>
 
 <p>
   <a href="https://plus.cnu.ac.kr/">
